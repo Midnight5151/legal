@@ -12,3 +12,9 @@ All 10x'ly Made projects are under [Lolite's Code of conduct](https://github.com
 
 ## Security
 All 10x'ly Made projects you can email thefoxjones@gmail.com or file an issue for any security concerns.
+
+## Terms
+All 10x'ly Made projects are under [these terms](TERMS.md).
+
+## Privacy
+Visit our [privacy policy](PRIVACY.md)
